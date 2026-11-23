@@ -9,7 +9,7 @@ sns.set_theme(style="whitegrid", context="talk")
 # ------------------------------------------------------------------
 # CONFIG: run once, look at the printed columns, then adjust names
 # ------------------------------------------------------------------
-FILE = "bios.parquet"
+FILE = "before_raw_data.xlsx"
 COL_BORN = "born_date"
 COL_CITY = "born_city"
 COL_REGION = "born_region"
@@ -21,7 +21,7 @@ COL_DIED = "died_date"
 # ------------------------------------------------------------------
 # 1. LOAD
 # ------------------------------------------------------------------
-df = pd.read_parquet(FILE)          # engine="pyarrow" is used automatically
+df = pd.read_excel(FILE)          # engine="pyarrow" is used automatically
 df.columns = df.columns.str.strip()
 print("Shape:", df.shape)
 print("Columns:", list(df.columns))
