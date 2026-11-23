@@ -8,8 +8,6 @@ Cleaning and exploratory analysis of a 150,000-row athlete dataset using Python,
 
 The raw file contains 150,000 athlete records with missing and inconsistent values, which makes it slow and hard to work with in a standard spreadsheet. This project audits the data, cleans it, and turns it into 9 clear charts that show the main patterns.
 
-**Dataset source:** [ADD WHERE THE DATA CAME FROM]
-
 ## What I did
 
 1. Audited all 150,000 rows for missing values before any analysis
