@@ -74,3 +74,9 @@ Python, Pandas, Matplotlib, Seaborn
 ## Services I offer
 
 Cleaning large Excel and CSV files, removing duplicates and fixing missing data, merging multiple spreadsheets into one clean file, and turning data into clear charts and summary reports.
+
+**Hire Me on Fiverr:** [Clean, Merge & Visualize Large Excel/CSV Files in Python](https://www.fiverr.com/s/bk0Eqpk)
+
+
+
+**Full Visual Portfolio & Case Studies:** [View My Notion Portfolio](https://harsh-licorice-f24.notion.site/Muhammad-Asadullah-Data-Cleaning-Visualization-Portfolio-41f512dd2c9380aeb725c5d25924a750?source=copy_link)
